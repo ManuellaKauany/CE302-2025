@@ -7,10 +7,13 @@
 
 ## Por que deveriamos usar?
 Reprodutibilidade: Comandos podem ser salvos em scripts para refazer cada passo do seu trabalho.
+
 Eficiência: Gerencie arquivos, pastas e projetos complexos de forma muito mais rápida.
+
 Ferramentas Avançadas: Muitas ferramentas de modelagem e computação de alta performance só funcionam via linha de comando
 
 ## Principais códigos
+
 pwd Mostra em qual pasta você está agora
 
 man Mostra o manual de um comando
@@ -26,8 +29,8 @@ mv  Move ou renomeia um arquivo/pasta
 cp Copia um arquivo/pasta
 
 rm Apaga um arquivo. CUIDADO: não tem lixeira!
-
-rm -r	Apaga uma pasta e todo o seu conteúdo
+  
+  rm -r	Apaga uma pasta e todo o seu conteúdo
 
 cat	Mostra o conteúdo de um arquivo
 
@@ -41,3 +44,4 @@ clear 	Limpa a tela do terminal.	clear
 
 echo    Imprime texto na tela
 [ video aula, terminal](https://youtu.be/bRuiUMK6sAc)
+
