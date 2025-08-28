@@ -1,0 +1,38 @@
+# Modulo 1
+## Unix, Git & Markdown
+
+# Git
+
+## O que é Git e Git Hub?
+Git: Sistema de controle de versão distribuído, que permite rastrear alterações no código-fonte ao longo do tempo.
+
+GitHub: Plataforma de hospedagem de código-fonte que utiliza o Git. Permite colaboração em projetos, controle de versão e compartilhamento de código.
+
+## Modo de uso
+Repositórios: Após criar uma conta no GitHub, você pode criar um novo repositório ou clonar (fazer uma cópia local) um repositório existente para começar a trabalhar no projeto.
+
+Commits: Os commits são registros das alterações feitas no código. Ao fazer um commit, é importante fornecer uma mensagem clara e concisa que explique o que foi alterado. Isso ajuda na compreensão das mudanças realizadas em cada versão.
+
+Branches: Os branches permitem que você crie cópias do seu repositório para trabalhar em funcionalidades específicas ou correções. Branches são úteis para desenvolver recursos em paralelo sem afetar o projeto principal. Quando um trabalho em um branch estiver concluído, ele pode ser mesclado ao projeto principal através de um pull request
+
+Pull Requests: Um pull request é uma solicitação para mesclar as alterações de um branch ao projeto principal.
+
+Forks: Quando você deseja contribuir para um projeto mantido por outra pessoa, pode criar um fork, que é uma cópia independente do repositório original em sua conta do GitHub. Após fazer as alterações em seu fork, você pode enviar umpull request para o repositório original, sugerindo que suas mudanças sejam incorporadas ao projeto principal.
+
+## Códigos principais
+git init: Inicializa um repositório Git em um diretório.
+
+git add <arquivo>: Adiciona um arquivo ao índice.
+
+git commit -m "mensagem": Salva as alterações no repositório.
+
+git push: Envia as alterações para o repositório remoto.
+
+git pull: Atualiza o repositório local com as alterações do repositório remoto.
+
+git clone: Clona um repositório remoto para o repositório local.
+
+
+# Video Aula Github
+[video aula github](https://youtu.be/alla-x0G0mU)
+[video aula github](https://youtu.be/JKddQoUKpCE)
