@@ -45,5 +45,6 @@ clear	Limpa a tela do terminal.	clear
 
 echo     Imprime texto na tela
 
+# Video aula
 [ video aula, terminal](https://youtu.be/bRuiUMK6sAc)
 
