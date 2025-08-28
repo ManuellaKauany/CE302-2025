@@ -1,0 +1,38 @@
+# Modulo 1
+## Unix, Git & Markdown
+
+# Markdown
+
+## O que é?
+   É uma linguagem de marcação leve( você pode escrever documentos em um formato fácil de ler e escrever, sem precisar de tags complexas como no HTML ) que permite formatar texto de forma simples e legível.
+
+## Por que usar?
+Simplicidade: A sintaxe é intuitiva e fácil de aprender.
+
+Portabilidade: Arquivos Markdown são simples arquivos de texto, o que os torna leves e fáceis de compartilhar.
+
+Compatibilidade: Pode ser convertido para HTML, PDF e outros formatos.
+
+Reprodutibilidade: Ideal para documentação de projetos, pois pode ser versionado com Git.
+
+## Formatação basica
+Título: use #,  quanto mais subtítulo mais hashtags
+
+Enfase: Use * ou _ para itálico e ** ou __ para negrito ( no inicio e final da frase).
+
+Listas: Use -, * ou números
+
+Links: Use [texto do link](URL) 
+
+Adicionar Imagens: ![texto alternativo](URL da imagem)
+
+Imagens com Link: [![texto alternativo](URL da imagem)](URL do link)
+
+Tabelas: Use | para criar
+
+Notas de rodapé: Use [^1] para criar
+
+Referências: Use [@codigo] para citar
+
+# Video Aula Markdown
+[video aula markdown](https://youtu.be/k9A4L6usi0Q)
