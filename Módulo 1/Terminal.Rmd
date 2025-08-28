@@ -47,4 +47,3 @@ echo     Imprime texto na tela
 
 # Video aula
 [ video aula, terminal](https://youtu.be/bRuiUMK6sAc)
-
