@@ -1,0 +1,18 @@
+# Primeiros passos no R
+
+hashtags # são comentarios no R, logo não é lida como coígo no terminal
+
+para executar duas funções em mesma linha utiliza ;
+
+# Contas básicas
+
+1 + 1 #soma
+1 - 1 #subtração
+1^1 # potencia
+1 * 1 #multiplicação
+1/1 #divisão
+
+# Funções
+x <- #definir variável
+ls() #lista de objetos
+rm() #apaga
